@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-ninja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basic-server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SCASTELLANO6044/Nodejs-Ninja.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SCASTELLANO6044/Nodejs-Ninja/issues"
+  },
+  "homepage": "https://github.com/SCASTELLANO6044/Nodejs-Ninja#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "lodash": "^4.17.21"
+  }
+}
